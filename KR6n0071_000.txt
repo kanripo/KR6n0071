@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 中邊分別論
+#+DATE: 2015-08-30 20:57:25.847418
+#+PROPERTY: JUAN 0
